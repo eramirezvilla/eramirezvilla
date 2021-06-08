@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Edgar Ramirez-Villa, a Software Engineer from Chicago, IL
+- 👀 I’m interested in Computer Vision, Bluetooth Low Energy (BLE), and always looking to learn more!
+- 📫 Reach me through LinkedIn at: linkedin.com/in/eramirezvilla/
