@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Edgar Ramirez-Villa, a Software Engineer from Chicago, IL
-- 👀 I’m interested in Open Source technologies, data analysis, and building software that makes businesses more efficient!
-- 📫 Reach me through LinkedIn at: linkedin.com/in/eramirezvilla/
+- Hi, I’m Edgar Ramirez-Villa, a Software Engineer from Chicago, IL
+- I’m interested in Full-Stack Web Development, AI, Data Analysis, and building software that makes businesses more efficient!
+- Reach me through LinkedIn at: linkedin.com/in/eramirezvilla/
