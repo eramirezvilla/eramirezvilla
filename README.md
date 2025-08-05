@@ -1,2 +1,2 @@
-#### Corporate Therapist/Software Engineer -- listening to problems and building solutions
+#### Problem Solver
 [![GitHub Streak](https://streak-stats.demolab.com/?user=eramirezvilla)](https://git.io/streak-stats)
